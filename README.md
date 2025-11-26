@@ -17,7 +17,7 @@ Our solution is BeyondClass - Practical Skills Learning Platform. It is a web or
 
 Students follow step-by-step modules, complete practical tasks, receive instant feedback, and build a verified portfolio that they can use for internships and jobs.
 
-# **Core Features:**
+# **Core Features**
 
 We have three major **features**:
 
